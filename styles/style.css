@@ -258,11 +258,11 @@ body{
     padding-bottom: 15px;
     border-bottom: 1px solid rgba(14, 14, 14, 0.1);
 }
-.foooter-icons{
+.footer-icons{
     display: flex;
     margin-left: 680px;
 }
 
-.foooter-icons img{
+.footer-icons img{
     margin-left: 15px;
 }
